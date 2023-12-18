@@ -1,0 +1,18 @@
+img{
+    width: 80px;
+    height: 50px;
+}
+table{
+    width: 90%;
+    margin: 0 auto;
+    border: thin solid black;
+}
+th{
+    text-align: left;
+}
+thead{
+    background-color: #eeeeee;
+}
+td{
+    border: thick solid #eeeeee;
+}
